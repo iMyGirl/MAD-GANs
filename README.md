@@ -18,8 +18,8 @@ Please refer to https://github.com/ratschlab/RGAN for the original code.
 
 - Python3
 
-- # scipy==1.0.0
-- # numpy==1.17.0
+-  scipy==1.0.0
+-  numpy==1.17.0
 
 - Please unpack the data.7z file in the data folder before run RGAN.py and AD.py
 
